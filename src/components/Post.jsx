@@ -117,4 +117,4 @@ export function Post({ author, publishedAt, content }) {
   );
 }
 
-//aula: Entendendo a key - quinta aula
+//aula: Typescript no react
